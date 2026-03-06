@@ -1,0 +1,13 @@
+﻿fastapi==0.116.1 
+uvicorn[standard]==0.35.0
+python-multipart==0.0.20
+numpy==2.2.6
+opencv-python==4.11.0.86
+Pillow==11.1.0
+timm==1.0.15
+torch==2.8.0
+torchvision==0.23.0
+scikit-learn==1.6.1
+matplotlib==3.10.3
+tqdm==4.67.1
+kaggle==1.7.4.5
